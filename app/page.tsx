@@ -299,11 +299,7 @@ export default function Home() {
           </Link>
         </div>
 
-        <div className="cta-decoration">
-          <span>✦</span>
-          <span>✦</span>
-          <span>✦</span>
-        </div>
+     
       </section>
     </main>
   );
